@@ -168,10 +168,9 @@
 [gce-light]: https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only
 [SAC-dark]: https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only
 [SAC-light]: https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only
-
 <br>
 
 ## Есть предложения?
 
 Если у вас есть вопросы или предложения как улучшить информацию на этой странице, вы всегда можете написать
-в [issues](https://github.com/github-profile-achievements/marse11e/GitHub-Awards).
+в [issues](https://github.com/github-profile-achievements/marse11e/GitHub-Awards)
