@@ -174,4 +174,4 @@
 ## Есть предложения?
 
 Если у вас есть вопросы или предложения как улучшить информацию на этой странице, вы всегда можете написать
-в [issues](https://github.com/github-profile-achievements/marse11e/GitHub-Awards)
+в [issues](https://github.com/github-profile-achievements/marse11e/GitHub-Awards).
